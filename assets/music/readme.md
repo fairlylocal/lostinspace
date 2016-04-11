@@ -1,1 +1,1 @@
-This folder contains music!
+Music, ah, I love them!
