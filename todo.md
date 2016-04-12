@@ -3,7 +3,7 @@
 - Locations | House - Garden - Space |
 - Audio | Menu audio - Tons of sad songs |
 
-Anu:
+Coleman:
 
 - Create menu, make it functional
 - Add first scene: house - dog dies
